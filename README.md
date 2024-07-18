@@ -20,21 +20,21 @@ A simple quiz application built with React, where users can answer multiple-choi
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/MDAEJA/Assigment_Quiz_App.git>
 2. **Navigate into the project directory:**
 
     ```bash
-    cd quiz-app <repository-url>
+    cd quiz-app <https://github.com/MDAEJA/Assigment_Quiz_App.git>
 
 3. **Install dependencies:**
 
     ```bash
-    npm install <repository-url>
+    npm install <https://github.com/MDAEJA/Assigment_Quiz_App.git>
 
 4. **Start the development server:**
    
     ```bash
-    npm start <repository-url>
+    npm start <https://github.com/MDAEJA/Assigment_Quiz_App.git>
 
 5. **Open your browser and visit **
 
